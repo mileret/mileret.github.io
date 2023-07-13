@@ -1,6 +1,5 @@
 # Zimo He | 何子默
-Tong Class '21
-Yuanpei College, Peking University.
+Tong Class '21, Yuanpei College, Peking University.
 
 Welcome to my page!
 
